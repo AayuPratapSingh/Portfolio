@@ -53,16 +53,5 @@
     "has_versions": false,
     "latest_version": "v0",
     "created_at": "2025-12-27"
-  },
-  {
-    "id": 1766842595542,
-    "title": "ws ajdna askjnf",
-    "description": "lkseflkwn",
-    "repo_url": "https://github.com/AayuPratapSingh/ws-ajdna--askjnf",
-    "thumbnail": "https://raw.githubusercontent.com/AayuPratapSingh/ws-ajdna--askjnf/main/v0/thumbnail.jpg",
-    "created_at": "2025-12-27",
-    "project_type": "Firmware",
-    "has_versions": true,
-    "latest_version": "v0"
   }
 ]
