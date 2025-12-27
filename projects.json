@@ -1,5 +1,16 @@
 [
   {
+    "id": 1766859353835,
+    "title": "Lavanya",
+    "description": "singh",
+    "repo_url": "https://github.com/AayuPratapSingh/lavanya",
+    "thumbnail": "https://raw.githubusercontent.com/AayuPratapSingh/lavanya/main/thumbnail.jpg",
+    "project_type": "Hardware",
+    "has_versions": false,
+    "latest_version": "v0",
+    "created_at": "2025-12-27"
+  },
+  {
     "id": 1766859197655,
     "title": "lavi",
     "description": "16",
