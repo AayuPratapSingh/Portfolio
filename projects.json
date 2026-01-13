@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 1768311074286,
+    "title": "Aayu",
+    "description": "ayu",
+    "repo_url": "https://github.com/AayuPratapSingh/aayu",
+    "thumbnail": "https://raw.githubusercontent.com/AayuPratapSingh/aayu/main/thumbnail.jpg",
+    "project_type": "Hardware",
+    "has_versions": false,
+    "latest_version": "v0",
+    "created_at": "2026-01-13"
+  }
+]
